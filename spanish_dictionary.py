@@ -1,7 +1,7 @@
 dictionary = {
     "excavadora": {
         "中文": "挖掘机",
-        "英文": "excavotor"
+        "英文": "excavator"
     },
     "trituradora": {
         "中文": "破碎机",
