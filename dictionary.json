@@ -1,0 +1,14 @@
+{
+    "excavadora": {
+        "中文": "挖掘机",
+        "英文": "excavator"
+    },
+    "trituradora": {
+        "中文": "破碎机",
+        "英文": "crusher"
+    },
+    "camion minero":{
+        "中文": "矿卡",
+        "英文": "mining truck"
+        }
+}
